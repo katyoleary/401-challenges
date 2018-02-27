@@ -1,8 +1,8 @@
 'use strict';
 
-function isPalindrome(ll) {
+function isPalindrome(linkedList) {
   let array = [];
-  let current = ll;
+  let current = linkedList;
 
   while(current !== null){
     array.push(current.val);
@@ -29,7 +29,7 @@ let list = {
           next: {
             val: 2, 
             next: {
-              val:1,
+              val: 1,
               next: null
             }
           }
