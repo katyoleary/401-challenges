@@ -9,9 +9,6 @@ function isPalindrome(linkedList) {
     current = current.next
   }
 
-  console.log(array);
-  console.log(array.reverse());
-  console.log(array === array.reverse());
   return array === array.reverse();
 
 }
