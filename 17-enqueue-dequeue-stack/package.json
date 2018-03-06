@@ -1,0 +1,11 @@
+{
+  "name": "17-enqueue-dequeue-stack",
+  "version": "1.0.0",
+  "description": "PROBLEM DOMAIN",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
