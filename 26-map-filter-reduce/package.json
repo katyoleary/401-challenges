@@ -1,0 +1,14 @@
+{
+  "name": "26-map-filter-reduce",
+  "version": "1.0.0",
+  "description": "PROBLEM DOMAIN",
+  "main": "utils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.2"
+  }
+}
