@@ -1,0 +1,15 @@
+{
+  "name": "27-stacks-plus-getMin",
+  "version": "1.0.0",
+  "description": "PROBLEM DOMAIN::",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.2"
+  }
+}
