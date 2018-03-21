@@ -1,0 +1,15 @@
+{
+  "name": "28-keyboard-words",
+  "version": "1.0.0",
+  "description": "Create a function that accepts an array of words as it's input.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
