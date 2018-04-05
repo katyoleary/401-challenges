@@ -1,0 +1,16 @@
+{
+  "name": "39-bst-find-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "dependencies": {
+    "jest": "^22.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest __test__/solution.test.js"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
