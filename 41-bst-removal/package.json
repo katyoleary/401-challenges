@@ -1,0 +1,15 @@
+{
+  "name": "41-bst-removal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
