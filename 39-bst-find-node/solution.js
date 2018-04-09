@@ -25,7 +25,7 @@ exports.tree = {
       right: null,
     },
     right: {
-      val: 23,
+      val: 22,
       left: null,
       right: null,
     }
