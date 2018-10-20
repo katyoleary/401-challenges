@@ -59,6 +59,7 @@ function findNode(ll, n) {
 }
 
 let myList = new LinkList();
+console.log('MY LIST', myList);
 myList.insertFront(4);
 myList.insertFront(3);
 myList.insertFront(2);

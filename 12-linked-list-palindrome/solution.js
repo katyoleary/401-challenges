@@ -8,9 +8,7 @@ function isPalindrome(linkedList) {
     array.push(current.val);
     current = current.next
   }
-
   return array === array.reverse();
-
 }
 
 let list = {
